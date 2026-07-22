@@ -12,9 +12,9 @@ multi-table foreign-key integrity):
 reference data, metrics, and methodology only.
 
 > **Public repo:** [github.com/damonLL/synthetic-data-benchmarks](https://github.com/damonLL/synthetic-data-benchmarks)
-> (product brand: [SynthForge](https://synthforge.io); intended long-term owner: `synthforgeio`).
+> (intended long-term owner: [`synthforgeio`](https://github.com/synthforgeio) once transferred).
 >
-> Source of truth in the monorepo: `distribution/oss-synthetic-data-benchmarks/`.
+> This monorepo path remains the sync source for maintainers.
 
 ## Why publish this
 
